@@ -8,3 +8,11 @@ Implementing along with issue #4 from that fearless SIMD repository is likely th
 proposal that I will implement along first.
 Implemting more advanced precision (P_3) using 
 my highly relaxed precision design can be an option for later implementation.
+## derived design 
+my design is derived directly from the repository that this is a fork of.
+I will have to understand 
+that the designer/owner of that main fearless SIMD repository 
+may have already designed or intended to design the designs I have made.
+I will have to make specific details 
+according to the licensing of that main fearless SIMD repository 
+attempting to follow licenses accordingly.
