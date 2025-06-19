@@ -1,4 +1,4 @@
-# research sufficiently for showing relevancy to machine learning engineering
+# research sufficiently for showing some relevancy to machine learning engineering
 additional details are not currently having a known plan concerning machine learning engineering.
 ## implementation details 
 This project is meant to help with fearless SIMD in Rust.
