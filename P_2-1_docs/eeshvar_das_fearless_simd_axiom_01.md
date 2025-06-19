@@ -1,2 +1,2 @@
-# Eeshvar Das Fearless SIMD axiom One
+# Eeshvar Das Fearless SIMD Axiom One
 not discovered or created yet.
