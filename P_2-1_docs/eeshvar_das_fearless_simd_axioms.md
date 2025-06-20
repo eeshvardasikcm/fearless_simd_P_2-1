@@ -16,5 +16,5 @@ second vector formation
 not defined yet
 ## Eeshvar Das Fearless SIMD Axiom 3
 not defined yet
-# Eeshvar Das Fearless SIMD Axiom 4
+## Eeshvar Das Fearless SIMD Axiom 4
 not defined yet 
