@@ -14,7 +14,7 @@ intention also being part of the primary portions of this axiom.
 ## Eeshvar Das Fearless SIMD Axiom 1.5 Notes 
 second vector formation 
 ## Eeshvar Das Fearless SIMD Axiom 2 Notes 
-not defined yet
+mul_add'
 ## Eeshvar Das Fearless SIMD Axiom 3 Notes 
 not defined yet
 ## Eeshvar Das Fearless SIMD Axiom 4 Notes 
