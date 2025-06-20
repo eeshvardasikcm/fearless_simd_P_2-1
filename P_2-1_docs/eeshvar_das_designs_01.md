@@ -3,7 +3,7 @@ Major bug on GitHub is preventing the GitHub UI from allowing some types of comm
 where i can do vcs off of GitHub. This probably won't affect the ability to make pull requests,
 so I am going to use vcs elsewhere and then likely put any pull requests in one batch from my other vcs.
 ## link(s) to my designs 
-* five axioms outlined with axiom 1.5 having second vector formation.
+* five axioms outlined with axiom 1.5 having second vector formation. axiom set appears it will map well to the first vector.
 * next up from this [r02] of the first major draft would be to discover or create an axiom.
 * Now that this latest [r02] of the first final draft appears to have this description below attached to the [r02] revision of my design, it appears there is room for a sedond vector in the vector space. This might be the exact revision necessary to have taken this design beyond the looking glass of the fearless SIMD #4 issue (proposal). The objective of my design is to attempt reducing toil. It may be a good idea to declare an initiative to begin first implementation of my design starting at this [r02] of the first final draft.
 * naming convention for my designs is good up to this point. The second final draft can have a suffix 'd2' added before the revision number 'r##'.
