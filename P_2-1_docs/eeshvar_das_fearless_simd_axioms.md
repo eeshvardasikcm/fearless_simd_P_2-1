@@ -1,5 +1,5 @@
 # Eeshvar Das Fearless SIMD Axiom 1
-not discovered or created yet.
+not defined yet.
 It's probably best if this axiom will favor reducing toil in the 
 primary portions of axiom construction and discovery.
 Because of the fact that this fork is based from 
