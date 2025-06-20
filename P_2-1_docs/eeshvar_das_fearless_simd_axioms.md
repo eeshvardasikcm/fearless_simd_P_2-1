@@ -1,6 +1,6 @@
 # Eeshvar Das Fearless SIMD Axioms
 [Eeshvar Das Fearless SIMD Axioms]
-## Eeshvar Das Fearless SIMD Axiom 0 Notes 
+## Introduction 
 not defined yet.
 ## Eeshvar Das Fearless SIMD Axiom 1 Notes 
 not defined yet.
