@@ -11,5 +11,5 @@ so I am going to use vcs elsewhere and then likely put any pull requests in one 
 
 `36.7 * 15.3`.
 
-[designs](https://drive.google.com/file/d/1snBYw8Pq-u_TY1w4keyFxD6Yx-L2-tNa/view) (beginning of draft revisions [r02])
+[designs](https://drive.google.com/file/d/1snBYw8Pq-u_TY1w4keyFxD6Yx-L2-tNa/view) (draft revision [r02])
 * [designs](https://drive.google.com/file/d/197BB5qRIIvdoGUu9vXULITNleHo6P-eV/view) (first final draft)
