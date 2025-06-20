@@ -2,17 +2,17 @@
 [Eeshvar Das Fearless SIMD Axioms]
 ## Introduction 
 not defined yet.
-## Eeshvar Das Fearless SIMD Axiom 1 Notes 
-not defined yet.
-It's probably best if this axiom will favor reducing toil in the 
-primary portions of axiom construction and discovery.
+It's probably best if these axioms will favor reducing toil in the 
+primary portions of the axioms construction and discovery process.
 Because of the fact that this fork is based from 
 the active fearless SIMD rust repository,
 and I forked deriving from #4 issue (proposal),
-this axiom should also have the 
-initial mathematics functionality 
-proposed in #4 proposal;
-intention also being part of the primary portions of this axiom.
+these axioms should initially be 
+in line with #4 proposal;
+rust fearless SIMD 
+intention being part of the primary portions of these axioms.
+## Eeshvar Das Fearless SIMD Axiom 1 Notes 
+not defined yet.
 ## Eeshvar Das Fearless SIMD Axiom 1.5 Notes 
 second vector formation (consideration for virtual vs. bare metal)
 ## Eeshvar Das Fearless SIMD Axiom 2 Notes 
