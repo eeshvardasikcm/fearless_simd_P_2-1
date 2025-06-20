@@ -16,7 +16,8 @@ not defined yet.
 ## Eeshvar Das Fearless SIMD Axiom 1.5 Notes 
 second vector formation (consideration for virtual vs. bare metal)
 ## Eeshvar Das Fearless SIMD Axiom 2 Notes 
-mul_add' (might just be a self reflection)
+mul_add' (might just be an
+unnecessary self reflection)
 ## Eeshvar Das Fearless SIMD Axiom 3 Notes 
 not defined yet
 ## Eeshvar Das Fearless SIMD Axiom 4 Notes 
