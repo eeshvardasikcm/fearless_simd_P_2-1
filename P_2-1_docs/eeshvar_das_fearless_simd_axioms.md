@@ -12,7 +12,7 @@ initial mathematics functionality
 proposed in #4 proposal;
 intention also being part of the primary portions of this axiom.
 ## Eeshvar Das Fearless SIMD Axiom 1.5 Notes 
-second vector formation 
+second vector formation (consideration for virtual vs. barebones)
 ## Eeshvar Das Fearless SIMD Axiom 2 Notes 
 mul_add'
 ## Eeshvar Das Fearless SIMD Axiom 3 Notes 
